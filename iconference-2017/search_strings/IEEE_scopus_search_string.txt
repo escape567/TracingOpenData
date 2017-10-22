@@ -1,0 +1,72 @@
+"odaa.dk" OR "open.alabama.gov" OR "data.alberta.ca" OR "cabq.gov/abq-data" OR "alkmaar.nl/opendat" OR "datacatalogs.org/catalog/allerdal" OR "os.amsterdam.nl" OR "data.angers.fr" OR "a2gov.org/data" OR "opendata.antwerpen.be" 
+"datalocale.fr" OR "opendata.aragon.es" OR "datos.argentina.gob.ar" OR "openbooks.az.gov/app/transparency" OR "arvada.org/opendata" OR "opendatacatalog.ashevillenc.gov" OR "risp.asturias.es"   
+
+
+
+"gis.atlantaga.gov" OR "data.austintexas.gov" OR "data.gov.au" OR "data.act.gov.au" OR "data.gv.at" OR "badalona.cat/portalWeb/badalona.portal" OR "opendata.service-bw.de" OR "bahiablanca.opendata.junar.com/home" OR "bahrain.bh/wps/portal/data" 
+
+"caib.es/caibdatafront" OR "data.baltimorecity.gov" OR "w20.bcn.cat/opendata" OR "opendata.comune.bari.it" OR "data.gov.be" OR "data.illinois.gov" OR "daten.berlin.de" OR "birmingham.gov.uk/open-data" OR "dati.comune.bologna.it" OR "data.cityofboston.gov" OR "cityofboston.gov/maps" OR "dados.gov.br" 
+
+"dadosabertos.senado.gov.br" OR "daten.bremen.de" OR "data.brisbane.qld.gov.au" OR "data.gov.bc.ca" OR "civicinfo.bc.ca" OR "data.buenosaires.gob.ar" OR "cms.burlington.ca" OR "data.burlingtonvt.gov" OR "data.ca.gov" OR "open.canada.ca"   
+
+"opendata.jccm.es" OR "dadesobertes.gencat.cat" OR "dati.camera.it/it" OR "data.illinois.gov" OR "data.cityofchicago.org" OR "datos.gob.cl" OR "govinfo.nlc.gov.cn" OR "datos.gov.c" OR "colorado.gov/data" OR "transparency.ct.gov" OR "data.cookcountyil.gov"  
+
+"datosabiertos.gob.go.cr" OR "countygp.ab.ca/EN/main/community/maps-gis/open-data/data" OR "data.csiro.au" OR "zwgk.dl.gov.cn" OR "data.gov/statedatasite" OR "delaware.gov/data" OR "digitaliser.dk" OR "data.denvergov.org" OR "data.opencolorado.org/group/drco" OR "data.dc.gov"
+"geoweb.dnv.org/data" OR "data.edmonton.ca" OR "dati.emilia-romagna.it" OR "opendata.enschede.nl" OR "portalu.de/portal/default-page.psm" OR "pub.stat.ee/px-web.2001/Dialog" OR "open-data.europa.eu" OR "opendata.euskadi.net" OR "data.fingal.ie" OR "suomi.fi/suomifi/tyohuone/yhteiset_palvelut/avoin_data" 
+
+
+"dati.comune.firenze.it" OR "floridahasarighttoknow.com" OR "data.gouv.fr" OR "fredericton.ca/en/citygovernment/DataMain" OR "abertos.xunta.es/portada" OR "open.georgia.gov" OR "govdata.de" OR "data.gov.gh" OR "data.opencolorado.org/group/gilpin-count" OR "data.graz.gv.at" OR "datagm.org.uk"  
+
+"geodata.gov.gr/geodata" OR "openguelph.wpengine.com/open-data-guelph" OR "guelph.ca/opendata" OR "halifaxopendata.ca" OR "daten.hamburg.de" OR "hamilton.ca/ProjectsInitiatives/OpenData" OR "opendata.hauts-de-seine.net" OR "data.hawaii.gov" OR "gis.hicentral.com"   
+
+
+"hri.fi/en/about/open-data" OR "gov.hk/en/theme/psi/datasets" OR "data.honolulu.gov" OR "data.codeforhouston.com" OR "data.illinois.gov" OR "data.gov.in" OR "stats.indiana.edu" OR "satupemerintah.net" OR "data.iowa.gov" OR "statcentral.ie" OR "dati.camera.it/it" OR "dati.gov.it" OR "dati.senato.it"   
+
+
+ "data.go.jp" OR "datosabiertos.jcyl.es" OR "data.jyvaskyla.fi" OR "kansas.gov/KanView" OR "data.kcmo.org" OR "openkent.org.uk" OR "opendoor.ky.gov" OR "opendata.go.ke" OR "datakc.org" OR "opendata.larochelle.fr" OR "tol.ca/Services-Contact/Open-Data/Open-Data-Catalogu" OR "opendata.lasvegasnevada.gov" 
+
+"apileipzig.de" OR "lexingtonky.gov" OR "datos.bcn.cl/es" OR "lichfielddc.gov.uk" OR "munlima.gob.pe/datos-abiertos-mml" OR "data.linz.gv.at" OR "cartolleida.paeria.es/lleidaoberta" OR "data.loire-atlantique.fr" OR "dati.lombardia.it" OR "london.ca/d.aspx?s=/Open_Data/Data_Catalogue" 
+
+"controllerdata.lacity.org" OR "wwwprd.doa.louisiana.gov/LaTrac/portal.cf" OR "portal.louisvilleky.gov/service/data" OR "opendata.provincia.lucca.it" OR "data.cityofmadison.com" OR "maine.gov/data"  
+
+"open.manchester.gov.uk" OR "data.maryland.gov" OR "wiki.state.ma.us/confluence/display/data/Open+Data+Initiative+Hom" OR "data.medicinehat.ca" OR "merton.gov.uk/council/dp-foi/opendata" OR "datameti.go.jp"
+
+"datos.gob.mx" OR "michigan.gov/data" OR "dati.comune.milano.it" OR "www1.minfin.ru/ru" OR "mn.gov/portal" OR "datos.misiones.gov.ar" OR "mississauga.ca/portal/residents" OR "data.mo.gov" OR "mapyourtaxes.mo.gov" OR "offenedaten.moers.de" OR "data.gov.md" 
+
+
+"data.datamontana.us" OR "montevideo.gub.uy/institucional/datos-abiertos/introduccio" OR "data.montgomerycountymd.gov" OR "opendata.montpelliernumerique.fr" OR "donnees.ville.montreal.qc.ca" OR "data.gov.ma" OR "data.mos.ru" OR "data.mosman.nsw.gov.au" OR "nanaimo.ca/datafeed" OR "data.nantes.fr" 
+
+
+"navarra.es/home_es/Open-Data" OR "ncopenbook.gov/NCOpenBook" OR "nebraska.gov/data" OR "data.overheid.nl" OR "nhopengovt.org" OR "sunshineportalnm.com" OR "data.nola.gov" OR "data.nsw.gov.au" OR "data.ny.gov" OR "opendata.cityofnewyork.us" OR "nyc.gov/data" OR "esd.ny.gov/NYSDataCenter.htm" OR "data.govt.nz"  OR "opendatanyc.com" OR "nycopendata"  
+
+"niagarafalls.ca/services/open/data" OR "niagararegion.ca/government/opendata " OR "ncopenbook.gov/NCOpenBook" OR "ncopenbook.gov" OR "nd.gov/gis" OR "northdevon.gov.uk/index/lgcl_council_government_and_democracy/nonlgcl_open_data" OR "rdno.ca/index.php/maps/digital-data" OR "data.norge.no"    
+
+
+
+"dados.novohamburgo.rs.gov.br" OR "health.data.ny.gov" OR "nysenate.gov/opendata" OR "transparency.ohio.gov" OR "ok.gov/about/data" OR "oman.om/opendata" OR "ontario.ca/government/government-ontario-open-data" OR "opendoor.ky.gov/transparency/Pages" OR "maps.amsterdam.nl/open_geodata" 
+
+"opendata.bigovernment.ru" OR "openkent.org.uk" OR "open.unhabitat.org" OR "openaid.se" OR "data.oregon.gov" OR "data.cityofpaloalto.org" OR "pamplona.es/verPagina"
+
+"opendata.paris.fr/opendata" OR "datosperu.org" OR "opendataphilly.org" OR "data.gov.ph" OR "dati.piemonte.it" OR "civicapps.org/datasets" OR "dados.gov.pt/pt/inicio" OR "princegeorge.ca/cityservices/online/odc" OR "data.providenceri.gov" 
+
+
+"dati.puglia.it" OR "donnees.ville.quebec.qc.ca" OR "data.gouv.qc.ca" OR "data.qld.gov.au" OR "raleighnc.gov/open" OR "reddeer.ca/City+Government" OR "data.redbridge.gov.uk" OR "openregina.cloudapp.net"
+
+"opendata.peelregion.ca" OR "data.rennes-metropole.fr" OR "data.go.kr" OR "researchdata.ands.org.au" OR "daten.rlp.de" OR "ri.gov/data" OR "data.illinois.gov" OR "data.gov.ro" OR "opendata.provincia.roma.it" OR "datacatalogs.org/catalog" OR "rotterdamopendata" OR "opengovdata.ru" OR "budget.gov.ru/data/opendata" 
+
+
+"data.openpolice.ru" OR "saanich.ca/data" OR "salford.gov.uk/opendata" OR "datasf.org" OR "data.smcgov.org" OR "data.cityofsantacruz.com" OR "governoaberto.sp.gov.br" OR "opendata71.fr" OR "sardegnageoportale.it" OR "opendata-saskatoon.cloudapp.net"
+
+ "data.gov.sa" OR "data.scottsdaleaz.gov" OR "data.seattle.gov" OR "data.seoul.go.kr" OR "open-data.pref.shizuoka.jp" OR "opendata.gov.sl" OR "data.gov.sg" OR "data.gov.sk" OR "data.somervillema.gov" OR "data.gov.za" OR "data.sa.gov.au" OR "planning.sa.gov.au" 
+
+
+"data.southbendin.gov" OR "open.sd.gov" OR "datos.gob.es" OR "open.stockholm.se" OR "surrey.ca/city-services" OR "data.sutton.gov.uk" OR "xn--ppnadata-m4a.se" OR "tampere.fi/avoindata" OR "opendata.go.tz" OR "dpipwe.tas.gov.au/sif" OR "tn.gov/opengov" OR "opendata.terrassa.cat" OR "data.texas.gov" OR "texastransparency.org/opendata" OR "transparency.gov.tl" OR "toronto.ca/open" 
+
+"data.grandtoulouse.fr" OR "trafford.gov.uk/opendata" OR "dati.trentino.it" OR "territorio.provincia.tn.it/portal" OR "data.gov.tt" OR "data.gov.tn" OR "comune.torino.it/aperto" OR "dati.toscana.it" OR "tirol.gv.at/applikationen/e-government/data" 
+
+
+"comune.udine.it/opencms/opencms/release/ComuneUdine/comune/Bilanci_comunali/open_dat" OR "data.gov.ua" OR "opendata.nbs.gov.ae" OR "data.gov.uk" OR "datos.gub.uy" OR "utah.gov/data" OR "data.vancouver.ca" OR "dati.veneto.it" OR "dati.venezia.it" OR "data.vermont.gov" OR "comune.vicenza.it/uffici/dipgenpers/sistinf/sit/daticartografici" OR "data.vic.gov.au" 
+
+"data.wien.gv.at" OR " data.virginia.gov" OR "data.vorarlberg.gv.at" OR "wakegov.com/data/Pages" OR "data.wa.gov" OR "opendata.waterloo.ca" OR "tx-weatherford2.civicplus.com" 
+
+"data.wellingtonfl.gov" OR "data.wa.gov.au" OR "citywindsor.ca/opendata" OR "wyre.gov.uk/opendata" OR "zaragoza.es/ciudad/risp" OR "data.stadt-zuerich.ch" OR "data.bloomington.in.gov" OR "data.indy.gov"

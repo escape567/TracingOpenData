@@ -1,0 +1,67 @@
+"odaa.dk" "open.alabama.gov" "data.alberta.ca" "cabq.gov/abq-data" "alkmaar.nl/opendata" "datacatalogs.org/catalog/allerdal" "os.amsterdam.nl" "data.angers.fr" "a2gov.org/data" "opendata.antwerpen.be" "datalocale.fr" "opendata.aragon.es" "datos.argentina.gob.ar" 
+"openbooks.az.gov/app/transparency" "arvada.org/opendata" "opendatacatalog.ashevillenc.gov" "risp.asturias.es" "gis.atlantaga.gov" "data.austintexas.gov" "data.gov.au" "data.act.gov.au" "data.gv.at" "badalona.cat/portalWeb/badalona.portal" "opendata.service-bw.de/Seiten"
+"bahiablanca.opendata.junar.com" "bahrain.bh/wps/portal/data" "caib.es/caibdatafront" "data.baltimorecity.gov" "w20.bcn.cat/opendata" "opendata.comune.bari.it" "data.gov.be" "data.illinois.gov/bellevill" "daten.berlin.de" "birmingham.gov.uk/open-data" "dati.comune.bologna.it" 
+
+
+
+"data.cityofboston.gov" "cityofboston.gov/maps" "dados.gov.br" "dadosabertos.senado.gov.br" "daten.bremen.de" "data.brisbane.qld.gov.au/index.php/datasets" "data.gov.bc.ca" "civicinfo.bc.ca" "data.buenosaires.gob.ar" "cms.burlington.ca" "data.burlingtonvt.gov" "data.ca.gov" "open.canada.ca" "opendata.jccm.es" 
+
+
+"dadesobertes.gencat.cat" "dati.camera.it/it" "data.illinois.gov/champaign" "data.cityofchicago.org" "datos.gob.cl" "govinfo.nlc.gov.cn" "datos.gov.co" "colorado.gov/data" "transparency.ct.gov" "data.cookcountyil.gov" "datosabiertos.gob.go.cr" " cogp.opendata.arcgis.com" "opendata.countygp.ab.ca" "data.csiro.au" "zwgk.dl.gov.cn"
+
+"delaware.gov/data" "digitaliser.dk" "data.denvergov.org" "data.opencolorado.org" "data.dc.gov" "geoweb.dnv.org/data" "data.edmonton.ca" "dati.emilia-romagna.it" "opendata.enschede.nl" "portalu.de/portal" "pub.stat.ee"
+
+"open-data.europa.eu" "opendata.euskadi.net" "data.fingal.ie" "suomi.fi/suomifi/tyohuone/yhteiset_palvelut/avoin_data" "dati.comune.firenze.it" "floridahasarighttoknow.com" "data.gouv.fr" "fredericton.ca/en/citygovernment/DataMain.as" "abertos.xunta.es" "open.georgia.gov" "govdata.de" "data.gov.gh"
+
+
+"data.opencolorado.org" "data.graz.gv.at" "datagm.org.uk" "geodata.gov.gr/geodata" "openguelph.wpengine.com/open-data-guelph" "guelph.ca/opendata" "daten.hamburg.de" "hamilton.ca/ProjectsInitiatives/OpenData" "opendata.hauts-de-seine.net" "data.hawaii.gov" "gis.hicentral.com" 
+
+"hri.fi/en/about/open-data" "gov.hk/en/theme/psi/datasets" "data.honolulu.gov" "data.codeforhouston.com" "data.illinois.gov" "data.illinois.gov/ssmm" "data.gov.in" "stats.indiana.edu" "satupemerintah.net" "data.iowa.gov" "statcentral.ie" "dati.camera.it/it" "dati.gov.it" 
+
+
+
+"dati.senato.it" "data.go.jp" "datosabiertos.jcyl.es" "data.jyvaskyla.fi" "kansas.gov/KanView" "data.kcmo.org" "openkent.org.uk" "opendoor.ky.gov" "opendoor.ky.gov" "opendata.go.ke" "datakc.org" "opendata.larochelle.fr" "tol.ca/Services-Contact/Open-Data" "opendata.lasvegasnevada.gov" "lemans.fr" 
+
+
+"apileipzig.de" "lexingtonky.gov" "datos.bcn.cl" "lichfielddc.gov.uk" "munlima.gob.pe/datos-abiertos-mml" "data.linz.gv.at" "cartolleida.paeria.es/lleidaoberta" "data.loire-atlantique.fr" "dati.lombardia.it" "london.ca/d.aspx?s=/Open_Data/Data_Catalogue" "controllerdata.lacity.org" 
+
+
+"doa.louisiana.gov" "portal.louisvilleky.gov/service/data" "opendata.provincia.lucca.it" "data.cityofmadison.com" "maine.gov/data" "manchester.gov.uk/info/500215/open_data" "data.maryland.gov" "wiki.state.ma.us/confluence" "data.medicinehat.ca" "merton.gov.uk/council/dp-foi/opendata" "nycopendata"  
+
+"datameti.go.jp" "datos.gob.mx" "michigan.gov/data" "dati.comune.milano.it" "www1.minfin.ru/ru" "mn.gov/portal" "datos.misiones.gov.ar" "mississauga.ca/portal/residents" "data.mo.gov" "mapyourtaxes.mo.gov" "offenedaten.moers.de" "data.gov.md" "data.datamontana.us" 
+
+"montevideo.gub.uy/institucional/datos-abiertos" "data.montgomerycountymd.gov" "opendata.montpelliernumerique.fr" "donnees.ville.montreal.qc.ca" "data.gov.ma" "data.mos.ru" "data.mosman.nsw.gov.au" "nanaimo.ca/datafeed" "data.nantes.fr" "navarra.es/home_es/Open-Data" "ncopenbook.gov/NCOpenBook" "nebraska.gov/data" 
+
+
+
+"data.overheid.nl" "nhopengovt.org" "sunshineportalnm.com" "data.nola.gov" "data.nsw.gov.au" "data.ny.gov" "opendata.cityofnewyork.us" "nyc.gov/data" "esd.ny.gov/NYSDataCenter" "data.govt.nz" "niagarafalls.ca/services/open/data" "niagararegion.ca/government/opendata" "ncopenbook.gov/NCOpenBook" "ncopenbook.gov" 
+
+"nd.gov/gis" "northdevon.gov.uk/index/lgcl_council_government_and_democracy/nonlgcl_open_data" "rdno.ca/index.php/maps/digital-data" "data.norge.no" "dados.novohamburgo.rs.gov.br" "health.data.ny.gov" "nysenate.gov/opendata" "transparency.ohio.gov" "ok.gov/about/data" "oman.om/opendata" "ontario.ca/government/government-ontario-open-data"
+
+"opendoor.ky.gov/transparency" "maps.amsterdam.nl/open_geodata" "opendata.bigovernment.ru" "openkent.org.uk" "open.unhabitat.org" "openaid.se" "data.oregon.gov" "data.cityofpaloalto.org" "pamplona.es/verPagina" 
+
+"opendata.paris.fr" "datosperu.org" "opendataphilly.org" "data.gov.ph" "dati.piemonte.it" "civicapps.org/datasets" "dados.gov.pt/pt/inicio" "princegeorge.ca/cityservices/online" "data.providenceri.gov" "dati.puglia.it" "donnees.ville.quebec.qc.ca" "data.gouv.qc.ca" "data.qld.gov.au" 
+
+"raleighnc.gov/open"
+"data.redbridge.gov.uk" "openregina.cloudapp.net" "opendata.peelregion.ca" "data.rennes-metropole.fr" "data.go.kr" "researchdata.ands.org.au" "daten.rlp.de" "ri.gov/data" 
+
+"data.illinois.gov" "data.gov.ro" "opendata.provincia.roma.it" "datacatalogs.org" "rotterdamopendata" "opengovdata.ru" "budget.gov.ru/data" "data.openpolice.ru" "saanich.ca/data" "salford.gov.uk/opendata" "datasf.org" "data.smcgov.org" 
+
+"data.cityofsantacruz" "governoaberto.sp.gov.br" "opendata71.fr" "sardegnageoportale.it/index.htm" "opendata-saskatoon.cloudapp.net" "data.gov.sa" "data.scottsdaleaz.gov" "data.seattle.gov" "data.seoul.go.kr" "open-data.pref.shizuoka.jp" 
+
+"opendata.gov.sl" "data.gov.sg" "data.gov.sk" "data.somervillema.gov" "data.gov.za" "data.sa.gov.au" "planning.sa.gov.au" "data.southbendin.gov" "open.sd.gov" "datos.gob.es" "open.stockholm.se" "surrey.ca/city-services" "data.sutton.gov.uk" 
+
+
+"xn--ppnadata-m4a.se" "tampere.fi/avoindata" "opendata.go.tz" "dpipwe.tas.gov.au" "tn.gov/opengov" "opendata.terrassa.cat" "data.texas.gov" "texastransparency.org/opendata" "transparency.gov.tl" "toronto.ca/open" "data.grandtoulouse.fr" "trafford.gov.uk/opendata" "dati.trentino.it"
+
+
+"territorio.provincia.tn.it/portal" "data.gov.tt" "data.gov.tn" "comune.torino.it/aperto" "dati.toscana.it" "tirol.gv.at/applikationen/e-government/data" "comune.udine.it/opencms/opencms/release/ComuneUdine/comune/Bilanci_comunali/open_data" 
+
+"data.gov.ua" "opendata.nbs.gov.ae" "data.gov.uk" "datos.gub.uy" "utah.gov/data" "data.vancouver.ca" "dati.veneto.it" "dati.venezia.it" "data.vermont.gov" "comune.vicenza.it/uffici/dipgenpers/sistinf/sit" "data.vic.gov.au" "data.wien.gv.at" " data.virginia.gov" "data.vorarlberg.gv.at" 
+
+
+
+"wakegov.com/data" "data.wa.gov" "opendata.waterloo.ca" "tx-weatherford2.civicplus.com" "data.wellingtonfl.gov" "data.wa.gov.au"
+
+"citywindsor.ca/opendata" "wyre.gov.uk/opendata" "zaragoza.es/ciudad/risp" "data.stadt-zuerich.ch" "data.bloomington.in.gov" "data.indy.gov"
+
